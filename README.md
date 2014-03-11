@@ -1,6 +1,9 @@
 Copyright (c) 2014 Yahoo! Inc.
 Copyrights licensed under the MIT License. See the accompanying LICENSE file for terms.
-Authors: Martin Saveski, Amin Mantrach
+
+Authors: Martin Saveski (http://www.time.mk/msaveski/) and Amin Mantrach (http://iridia.ulb.ac.be/~amantrac/)
+
+
 
 Joint Non-negative Matrix Factorization
 
